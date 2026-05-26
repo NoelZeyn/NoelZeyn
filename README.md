@@ -1,47 +1,64 @@
-# Hi there, I'm Ahmad Akrom Kamaluddin 👋
+# Ahmad Akrom Kamaluddin
+### Software Engineer & Data Analyst
 
-I am an Information Technology graduate from Universitas Brawijaya with a strong analytical mindset, sharp attention to detail, and a high adaptability to new challenges. I have organizational experience that allows me to work dynamically both independently and within a team.
-
----
-
-### 🚀 About Me
-- 🎓 **Education:** Information Technology at Universitas Brawijaya (August 2022 - January 2026).
-- 💼 **Latest Experience:** IT System Information Intern at PT PLN Nusantara Power UP Gresik.
-- 🏫 **Academic Leadership:** Former Teaching Assistant for *Mobile Application Development* and *Cyber Security Technology* courses at Universitas Brawijaya.
-- 🎮 **Community Roles:** IT Staff for Brawijaya E-Sport, optimizing web profiles and server maintenance.
+An Information Technology graduate from Universitas Brawijaya with a strong technical foundation in full-stack web development and data analytics. Experienced in building enterprise-grade applications, leading technical labs as a Teaching Assistant, and deploying AI-driven systems. Recognized for an analytical approach to solving optimization problems and adaptability in cross-functional environments.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Programming Languages:** PHP, JavaScript, Java.
-- **Frameworks:** Laravel, Vue.js, React.js.
-- **Databases & Tools:** MySQL, Postman, Git, GitHub, QGIS.
-- **Office Ecosystem:** Microsoft Office Suite (Word, Excel, PowerPoint).
+## Technical Expertise
+
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Programming Languages** | PHP, JavaScript, Java, SQL |
+| **Frameworks & Libraries** | Laravel, Vue.js, React.js |
+| **Tools & Databases** | MySQL, Git, GitHub, Postman, QGIS |
+| **Core Competencies** | Object-Oriented Programming (OOP), RESTful API Design, Spatial Data Analysis |
 
 ---
 
-### 📜 Professional Certifications
-- 🌐 **BNSP Certified Web Developer** (September 2025).
-- 📊 **BNSP Certified Data Analyst** (April 2026).
-- 🔌 **Cisco CCNA 2025** (August 2025).
-- ☁️ **Preparation Course for Azure AI Fundamentals** (August 2025).
-- 📝 **TOEFL ITP:** 547
+## Professional & Academic Highlights
+
+* **IT System Information Intern** at PT PLN Nusantara Power UP Gresik
+  Designed and implemented SIMAC (Procurement Management Information System) utilizing Laravel, Vue.js, and MySQL to streamline regional procurement processes.
+
+* **Teaching Assistant** at Universitas Brawijaya
+  Instructed and managed lab administrations for advanced coursework including *Mobile Application Development* and *Cyber Security Technology*.
+
+* **IT Infrastructure Staff** at Brawijaya E-Sport
+  Maintained and optimized organization web profiles and community server infrastructure to ensure high availability.
 
 ---
 
-### 📂 Featured Projects
-- 🚗 **YOLOv11 vs Faster R-CNN (Thesis):** Performance comparison integrating Coordinate Attention & Multi-Scale Attention Aggregation (MSAA) for object detection at Mount Bromo.
-- 💼 **SIMAC (PT PLN Nusantara Power UP Gresik):** Procurement Management Information System built using Laravel, Vue.js, and MySQL.
-- 🎮 **MLBB Streamer Queue & Monetization:** Live system integrated with Saweria & Sociabuzz (Live at [koryuz.com](https://koryuz.com)).
-- 🗺️ **Spatial Data Visualization:** Interactive population and spatial mapping of Tingal Village using QGIS.
-- 🏥 **Posyandu Care:** Digital transformation system for Posyandu using Laravel, Vue, and Kotlin (Preview at [posyandu.koryuz.com](https://posyandu.koryuz.com)).
+## Selected Projects
+
+### Machine Learning & Computer Vision
+* **YOLOv11 vs Faster R-CNN Performance Comparison**
+  Thesis project implementing Coordinate Attention and Multi-Scale Attention Aggregation (MSAA) mechanisms for object detection under extreme environmental conditions at Mount Bromo.
+
+### Enterprise Applications
+* **SIMAC (Procurement Management Information System)**
+  Full-stack web application tailored for internal operations at PT PLN Nusantara Power UP Gresik.
+* **Posyandu Care**
+  Digital transformation initiative featuring integrated web and mobile ecosystems built with Laravel, Vue, and Kotlin.
+
+### Web Tools & Automation
+* **MLBB Streamer Automation & Monetization**
+  Live queue and automated financial tracking system integrated seamlessly with Saweria and Sociabuzz APIs.
 
 ---
 
-### 🤝 Connect with Me
-- 🌐 **Portfolio Website:** [biodata-rouge.vercel.app](https://biodata-rouge.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/ahmad-akrom-kamaluddin](https://www.linkedin.com/in/ahmad-akrom-kamaluddin)
-- 📧 **Email:** ahmadakrom562@gmail.com
+## Professional Certifications
+
+* **BNSP Certified Web Developer** (September 2025)
+* **BNSP Certified Data Analyst** (April 2026)
+* **Cisco Certified Network Associate (CCNA)** (August 2025)
+* **Microsoft Azure AI Fundamentals Preparation** (August 2025)
+* **TOEFL ITP Standardized Assessment** (Score: 547)
 
 ---
-*“Striving to code better today than I did yesterday.”*
+
+## Contact & Connect
+
+* **Portfolio:** [biodata-rouge.vercel.app](https://biodata-rouge.vercel.app)
+* **LinkedIn:** [linkedin.com/in/ahmad-akrom-kamaluddin](https://www.linkedin.com/in/ahmad-akrom-kamaluddin)
+* **Email:** ahmadakrom562@gmail.com
