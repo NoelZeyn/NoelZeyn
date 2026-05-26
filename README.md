@@ -1,7 +1,7 @@
 # Ahmad Akrom Kamaluddin
 ### Software Engineer & Data Analyst
 
-An Information Technology graduate from Universitas Brawijaya with a strong technical foundation in full-stack web development and data analytics. Experienced in building enterprise-grade applications, leading technical labs as a Teaching Assistant, and deploying AI-driven systems. Recognized for an analytical approach to solving optimization problems and adaptability in cross-functional environments.
+An Information Technology graduate from Universitas Brawijaya with a strong technical foundation in full-stack web development and data analytics. Experienced in building enterprise-grade applications, leading technical labs as a Teaching Assistant. Recognized for an analytical approach to solving optimization problems and adaptability in cross-functional environments.
 
 ---
 
@@ -25,7 +25,7 @@ An Information Technology graduate from Universitas Brawijaya with a strong tech
   Instructed and managed lab administrations for advanced coursework including *Mobile Application Development* and *Cyber Security Technology*.
 
 * **IT Infrastructure Staff** at Brawijaya E-Sport
-  Maintained and optimized organization web profiles and community server infrastructure to ensure high availability.
+  Maintained and optimized organization web profiles and community discord server to ensure high availability.
 
 ---
 
@@ -35,15 +35,24 @@ An Information Technology graduate from Universitas Brawijaya with a strong tech
 * **YOLOv11 vs Faster R-CNN Performance Comparison**
   Thesis project implementing Coordinate Attention and Multi-Scale Attention Aggregation (MSAA) mechanisms for object detection under extreme environmental conditions at Mount Bromo.
 
-### Enterprise Applications
+### Applications
 * **SIMAC (Procurement Management Information System)**
   Full-stack web application tailored for internal operations at PT PLN Nusantara Power UP Gresik.
 * **Posyandu Care**
   Digital transformation initiative featuring integrated web and mobile ecosystems built with Laravel, Vue, and Kotlin.
 
-### Web Tools & Automation
+### Web Tools
 * **MLBB Streamer Automation & Monetization**
   Live queue and automated financial tracking system integrated seamlessly with Saweria and Sociabuzz APIs.
+
+---
+
+## Project Ongoing
+
+### Private Boarding House Management System
+Developing a web-based property management system for three private boarding houses (*kos-kosan*). The platform implements Role-Based Access Control (RBAC) to separate operational management from public information:
+* **Admin Portal (Restricted):** Secure dashboard accessible only to registered administrators for handling data management, occupancy updates, and tenant logistics.
+* **Public Interface (Open):** Interactive catalog for prospective tenants displaying layout blueprints, room availability status, amenities, and listing details.
 
 ---
 
